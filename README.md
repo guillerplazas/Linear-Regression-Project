@@ -11,7 +11,7 @@ The output of the program shows the completion of the following tasks:</br>
 * b) for each decade: the parameters a and b for the model of the form y = ax + b, the total error
 e, the country C and Y within that decade where the worst error for the model happened
 * c) the parameters (c<sub>0</sub>, c<sub>1</sub>, c<sub>2</sub>, c<sub>3</sub>, c<sub>4</sub>, c<sub>5</sub>) that best adjust the model
-a<sub>t</sub> = c<sub>0</sub> + c<sub>t</sub> ; b<sub>t</sub> = c<sub>2</sub> + c<sub>3</sub>t ; e<sub>t</sub> = c<sub>4</sub> + c<sub>5</sub>t.
+a<sub>t</sub> = c<sub>0</sub> + c<sub>1</sub>t ; b<sub>t</sub> = c<sub>2</sub> + c<sub>3</sub>t ; e<sub>t</sub> = c<sub>4</sub> + c<sub>5</sub>t.
 
 It also answers following questions:
 * Are data becoming more or less difficult to explain with linear regression? What does suggest in terms of these variables?
